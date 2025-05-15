@@ -1,0 +1,61 @@
+{
+    "name":"DNS Utilities",
+    "author":"Michael Rigsby (OIS Technologies)",
+    "bugs":"",
+    "changelog":"",
+    "contributors":[],
+    "dependencies":{},
+    "description":"",
+    "devDependencies":{},
+    "documentation":"https://github.com/mrigsby/commandbox-dns-utility",
+    "homepage":"https://www.oistech.com",
+    "ignore":[
+        "**/.*",
+        "/test/",
+        "/tests/"
+    ],
+    "installPaths":{},
+    "instructions":"",
+    "keywords":"commandbox dns",
+    "license":[
+        {
+            "type":"",
+            "URL":""
+        }
+    ],
+    "location":"ForgeboxStorage",
+    "private":false,
+    "projectURL":"https://github.com/mrigsby/commandbox-dns-utility",
+    "reinitWatchDelay":500,
+    "reinitWatchDirectory":"",
+    "reinitWatchPaths":"",
+    "repository":{
+        "type":"git",
+        "url":"https://github.com/mrigsby/commandbox-dns-utility"
+    },
+    "scripts":{},
+    "shortDescription":"CommandBox DNS queries from the command line and utility returning DNS query results",
+    "slug":"dns-utility",
+    "testbox":{
+        "bundles":"",
+        "directory":"tests.specs",
+        "excludes":"",
+        "labels":"",
+        "options":{},
+        "recurse":true,
+        "reporter":"",
+        "runner":[
+            {
+                "default":""
+            }
+        ],
+        "testBundles":"",
+        "testSpecs":"",
+        "testSuites":"",
+        "verbose":true,
+        "watchDelay":500,
+        "watchPaths":"**.cfc"
+    },
+    "type":"commandbox-modules",
+    "version":"0.1.0"
+}
